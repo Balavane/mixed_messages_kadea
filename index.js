@@ -4,6 +4,11 @@
     - creer un Redmi
     Balavane tache:
     - creer une fonction qui afficheras le message*/
+  let fruit = ["avocar","ananas","orange","citron","banane"];
+  
+  let object = ["latte","stylos","ordinateur","modem","agenda"];
+
+  let number = [ "one","five","two","nani","six"];
 
   // creation des mots aleatoire 
  const fruits_aleatoire = Math.floor(Math.random()* fruit.length)
